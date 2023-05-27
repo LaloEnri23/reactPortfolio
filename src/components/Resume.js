@@ -1,7 +1,7 @@
 // Imports React, the component's specific CSS styles, and a PDF file of Harold's resume.
 import React from 'react';
 import './Resume/Resume.css';
-import haroldresume from '../images/HAROLD_RESUME.pdf';
+
 
 // This is a functional React component named 'Resume'.
 const Resume = () => {
@@ -13,35 +13,41 @@ const Resume = () => {
   return (
     <section className="resume">
       <h2>Resume</h2>
-      <a className="download-resume" href={haroldresume} download>
+      <a className="download-resume"  >
         Download my Resume
       </a>
       <h3>Proficiencies</h3>
       <ul>
-        <li>Front-end Development Proficiency:</li>
+        <li>Front-end Development:</li>
       </ul>
       <ul>
         <li>
-      Proficient in building interactive, user-friendly interfaces using JavaScript, React.js, and Redux.
-Strong understanding of front-end web technologies including HTML5, CSS3, and JavaScript ES6+.
-Experienced in responsive web design to ensure websites render well across various devices.
-Proficient in using modern development tools and methodologies, such as version control with Git, Agile methodologies, and test-driven development.
-Skilled in optimizing web performance and implementing SEO best practices.
-Experienced in working with RESTful APIs and GraphQL to integrate front-end applications with back-end services.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. 
       </li>
       </ul>
       <ul>
-        <li>Back-end Development Proficiency:</li>
+        <li>Back-end Development:</li>
       </ul>
       <ul>
         <li>
-        Proficient in building scalable, secure server-side applications using Node.js and Express.js.
-Experienced in developing RESTful APIs and GraphQL APIs for front-end consumption.
-Strong understanding of relational databases and NoSQL databases, including experience with MySQL, PostgreSQL, and MongoDB.
-Proficient in authentication and authorization protocols, such as OAuth and JWT.
-Skilled in using Docker for containerization and Kubernetes for orchestration.
-Proficient in designing and implementing microservices architecture.
-Experienced in using modern development tools and methodologies, such as version control with Git, Agile methodologies, and test-driven development.
+        Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum. Perspiciatis 
+minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit 
+quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur 
+fugiat, temporibus enim commodi iusto libero magni deleniti quod quam 
+consequuntur! Commodi minima excepturi repudiandae velit hic maxime
+doloremque. Quaerat provident commodi consectetur veniam similique ad 
+earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo 
+fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore 
+suscipit quas? 
       </li>
       </ul>
 
