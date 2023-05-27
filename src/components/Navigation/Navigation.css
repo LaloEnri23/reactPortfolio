@@ -4,8 +4,11 @@
   display: flex;
   justify-content: flex-end; 
   align-items: center;
+  
 }
-
+.tabs{
+  font-family: 'Major Mono Display', monospace;
+}
 .nav-list {
   display: flex;
   list-style-type: none;
