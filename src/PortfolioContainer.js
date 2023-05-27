@@ -1,12 +1,14 @@
 // Imports the necessary React and component libraries, as well as the application's CSS styles.
 import React, { useState } from 'react';
-import '../assets/styles.css';
-import AboutMe from './AboutMe';
-import Portfolio from './Portfolio';
-import Resume from './Resume';
-import Contact from './Contact';
-import NavTabs from './Navtabs';
-import Footer from './Footer'; 
+// import '../assets/styles.css';
+import AboutMe from './components/AboutMe';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
+import Contact from './components/Contact';
+import NavTabs from './components/NavTabs';
+import Footer from './components/Footer'; 
+
+
 
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState('AboutMe');
