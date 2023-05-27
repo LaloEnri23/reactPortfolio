@@ -8,7 +8,7 @@ const AboutMe = () => {
       <h2>About Me</h2>
       <div className="about-me-content">
         <img src={gato} alt="Eduardo Enriquez" />
-        <div>
+        <div id='homepage'>
           <p>
           My name is Eduardo Enriquez, and I was born on February 23, in the early 2003s, in Los Angeles, California. I take great pride in my Mexican heritage, as it has played a significant role in shaping my work ethic and values. From a young age, I was instilled with the importance of hard work, thanks to my industrious Mexican parents.
           </p>

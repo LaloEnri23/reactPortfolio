@@ -18,7 +18,7 @@ const Resume = () => {
       </a>
       <h3>Proficiencies</h3>
       <ul>
-        <li>Front-end Development:</li>
+        <li id='sub'>Front-end Development:</li>
       </ul>
       <ul>
         <li>
@@ -33,7 +33,7 @@ quia.
       </li>
       </ul>
       <ul>
-        <li>Back-end Development:</li>
+        <li id='sub'>Back-end Development:</li>
       </ul>
       <ul>
         <li>
