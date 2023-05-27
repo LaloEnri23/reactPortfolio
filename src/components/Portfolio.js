@@ -9,10 +9,10 @@ import './Portfolio/Portfolio.css'; // import the CSS file
 const Portfolio = () => {
 
   const projects = [
-    { title: 'Project 1', imageUrl: prj1, deployedUrl: 'https://harold-fv.github.io/project-setup/', repoUrl: 'https://harold-fv.github.io/project-setup' },
-    { title: 'Project 2', imageUrl: prj2, deployedUrl: 'https://hidden-retreat-77670.herokuapp.com', repoUrl: 'https://github.com/samanthaahn/food-critics' },
-    { title: 'Project 3', imageUrl: prj3, deployedUrl: 'https://sheltered-retreat-34476.herokuapp.com', repoUrl: 'https://github.com/harold-fv/Tech-Blog' },
-    { title: 'Coming soon', imageUrl: prj4, deployedUrl: 'https://github.com/harold-fv/E-Commerce-Back-End', repoUrl: 'https://github.com/harold-fv/E-Commerce-Back-End' },
+    { title: 'Aplicacion de Clima', imageUrl: prj1, deployedUrl: 'https://laloenri23.github.io/NewAplicacion-Weather/', repoUrl: 'https://laloenri23.github.io/NewAplicacion-Weather/' },
+    { title: 'Stylist.Ai', imageUrl: prj2, deployedUrl: 'https://autohome.github.io/jenhua-joerdo/', repoUrl: 'https://autohome.github.io/jenhua-joerdo/' },
+    { title: 'Fitness-Fiend - Fitness Tracker', imageUrl: prj3, deployedUrl: 'https://fast-basin-24052.herokuapp.com', repoUrl: 'https://fast-basin-24052.herokuapp.com' },
+    { title: 'Creatify App', imageUrl: prj4, deployedUrl: 'https://fathomless-crag-99497.herokuapp.com', repoUrl: 'https://fathomless-crag-99497.herokuapp.com' },
 
   ];
 
