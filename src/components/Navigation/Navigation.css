@@ -18,7 +18,7 @@
 }
 
 .nav-item {
-  color: #FF4C29;
+  color: #BBB6A5;
   text-decoration: none;
   padding: 0.5rem 1rem;
   font-family: Arial, sans-serif; /* Change to a modern font that matches your design. */
@@ -27,6 +27,6 @@
 
 .nav-item:hover,
 .nav-item.active {
-  color: #ccc;
+  color: #B5E5CF;
   transform: scale(1.05); /* Slightly enlarges the link on hover */
 }

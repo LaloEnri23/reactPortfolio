@@ -1,5 +1,5 @@
 .footer {
-  background-color: #1C82AD;
+  background-color: #B9DCD5;
   padding: 1rem;
   display: flex;
   justify-content: center;
@@ -26,11 +26,11 @@
 }
 
 .footer a {
-  color: #eef0e9;
+  color: #3D5B59;
   text-decoration: none;
   margin: 0 1rem;
 }
 
 .footer a:hover {
-  color: #e9cdcd;
+  color: #ff5f5f;
 }
